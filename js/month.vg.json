@@ -106,7 +106,7 @@
           {"field": "Location", "type": "nominal"},
           {"field": "Month", "type": "ordinal", "title": "Month"},
           {"field": "Season", "type": "ordinal", "title": "Season"},
-          {"field": "average_temp", "type": "quantitative", "title": "Average Temperature (Celsius)", "format": ".2f"}
+          {"field": "average_temp", "type": "quantitative", "title": "Temperature (Celsius)", "format": ".2f"}
         ]
       }
     },
